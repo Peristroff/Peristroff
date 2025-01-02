@@ -96,7 +96,7 @@ I have a degree in engineering in conectivity and networking, specialized in tel
 - Ennio Morricone is one of my favorite music composers and for me, he was a genius.
 - I watch memes almost everyday.
 - Everytime I struggle with programming, I think to myself if I really know how to program at all and whenever I get stuck I ask [Iwata](https://en.wikipedia.org/wiki/Satoru_Iwata)'s soul to lend me a hand (I want him to rest in peace, but i'm just too selfish).
-- Whenever I install a new npm package, I pray it doesn't contain a crypto-mining malware, only god knows what thing i'm downloading in my computer, since after installing one package it contains like 20 different packages from 50 another packages.
+- Whenever I install a new npm package, I pray it doesn't contain a crypto-mining malware, only god knows what thing i'm downloading in my computer, since installing one package it contains like 20 different packages from 50 another packages.
 
 
 # Credits:
